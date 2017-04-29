@@ -1,10 +1,4 @@
 # GDV-Projekt
-Some showcase videos:
-
-Demo of first half of the game: https://youtu.be/PNd9b1_wys4 
-
-Character control: https://www.youtube.com/watch?v=KRq3_8VKgpU
-
-Raytraced combat system: https://www.youtube.com/watch?v=siNQJvDeMLk
+Demo of the game: https://www.youtube.com/watch?v=3TJZcggK26g&feature=youtu.be
 
 
